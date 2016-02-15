@@ -3,6 +3,6 @@ class Model {
   public $tstring;
 
   public function __construct(){
-    $this->tstring = "The string has been loaded through the template.";
+    $this->tstring = "MVC + PHP = Awesome, click me!";
   }
 } ?>
